@@ -1,5 +1,5 @@
 ---
-title: "Data Analysis for Stray Pets in Malaysia"
+title: "Data Analysis of Stray Pets in Malaysia"
 author: "Chunqing Cao, Dongqing Li, Madison Wang"
 date: "5/2/2019"
 output: html_document
