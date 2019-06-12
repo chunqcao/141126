@@ -1,6 +1,6 @@
 ---
 title: "Data Analysis for Stray Pets in Malaysia"
-author: "Chunqing Cao, Dongqing Li, Madison Wang"
+author: "Chunqing Cao"
 date: "5/2/2019"
 output: html_document
 ---
